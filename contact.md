@@ -1,7 +1,7 @@
 
 | Channel        | Handle |
 | ----           | ----  |
-| e-mail         | <a href="http://rot13.com/" target="_blank">ROT1(</a> vnqcr.@lzss.qhwlzm.nqf <a href="http://rot13.com/" target="_blank">)</a> |
+| e-mail         | <a href="http://rot13.com/" target="_blank">ROT1(</a> vnqcr@lzss.qhwlzm.nqf <a href="http://rot13.com/" target="_blank">)</a> |
 | Github         | [MatrixManAtYrService](https://github.com/MatrixManAtYrService/) |
 | Stack Exchange | [MatrixManAtYrService](https://stackexchange.com/users/1050176/matrixmanatyrservice) |
 | Twitter        | [MattRixman](https://twitter.com/MattRixman)|
