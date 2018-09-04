@@ -1,0 +1,22 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      {% if page.url == "/" %}
+      <div class="footer-col footer-col-1">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+      {% else %}
+      <div class="footer-col footer-col-1"h
+          <p><a href="/contact">contact</a></p>
+      </div>
+      <div class="footer-col footer-col-3"h
+          <p><a href="{{ "/feed.xml" | relative_url }}">rss</a></p>
+      </div>
+      {% endif %}
+      </div>
+  </div>
+
+</footer>
